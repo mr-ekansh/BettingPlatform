@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="82" height="85" viewBox="0 0 82 85">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.162" y1="-0.138" x2="0.557" y2="0.637" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1f4b1d"/>
+      <stop offset="1" stop-color="#060f06" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="Ellipse_60">
+      <feOffset dx="2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.271" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g data-type="innerShadowGroup">
+    <ellipse id="Ellipse_60-2" data-name="Ellipse 60" cx="41" cy="42.5" rx="41" ry="42.5" opacity="0.5" fill="url(#linear-gradient)"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Ellipse_60)">
+      <ellipse id="Ellipse_60-3" data-name="Ellipse 60" cx="41" cy="42.5" rx="41" ry="42.5" fill="#fff" opacity="0.5"/>
+    </g>
+  </g>
+</svg>

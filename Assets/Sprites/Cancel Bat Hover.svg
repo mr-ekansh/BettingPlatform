@@ -1,0 +1,15 @@
+<svg id="Component_6_1" data-name="Component 6 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70" height="43" viewBox="0 0 70 43">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.326" y1="0.024" x2="0.725" y2="0.973" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f3dbff"/>
+      <stop offset="1" stop-color="#c6a7ff"/>
+    </linearGradient>
+  </defs>
+  <g id="Rectangle_1344" data-name="Rectangle 1344" fill="rgba(34,0,58,0.5)" stroke="#1d004a" stroke-width="1">
+    <rect width="70" height="43" rx="21.5" stroke="none"/>
+    <rect x="0.5" y="0.5" width="69" height="42" rx="21" fill="none"/>
+  </g>
+  <rect id="Rectangle_1345" data-name="Rectangle 1345" width="64" height="37" rx="18.5" transform="translate(3 3)" fill="url(#linear-gradient)"/>
+  <text id="Cancel_BET" data-name="Cancel
+BET" transform="translate(35 20)" fill="#5925b2" font-size="10" font-family="Lato-Bold, Lato" font-weight="700" letter-spacing="0.02em"><tspan x="-19.982" y="0">CANCEL</tspan><tspan x="-9.295" y="12">BET</tspan></text>
+</svg>

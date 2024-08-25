@@ -1,0 +1,12 @@
+<svg id="Group_1026" data-name="Group 1026" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="812" height="375" viewBox="0 0 812 375">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.637" gradientTransform="translate(0 -0.5) scale(1 2.001)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1f4b1d" stop-opacity="0"/>
+      <stop offset="1" stop-color="#1f4b1d"/>
+    </radialGradient>
+  </defs>
+  <g id="Group_790" data-name="Group 790">
+    <rect id="Rectangle_1084" data-name="Rectangle 1084" width="812" height="375" fill="#346f00"/>
+    <rect id="Rectangle_1087" data-name="Rectangle 1087" width="812" height="375" fill="url(#radial-gradient)"/>
+  </g>
+</svg>

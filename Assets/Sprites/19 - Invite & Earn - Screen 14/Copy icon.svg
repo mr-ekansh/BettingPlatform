@@ -1,0 +1,17 @@
+<svg id="Component_17_1" data-name="Component 17 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.1" y1="0.101" x2="1.801" y2="2.115" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff266d"/>
+      <stop offset="1" stop-color="#fb8700"/>
+    </linearGradient>
+  </defs>
+  <rect id="Rectangle_718" data-name="Rectangle 718" width="38" height="38" rx="10" fill="url(#linear-gradient)"/>
+  <g id="Group_531" data-name="Group 531" transform="translate(-78.5 -53.5)">
+    <path id="Path_3698" data-name="Path 3698" d="M166.323,219h-8.346a.477.477,0,0,0,0,.954h8.346a.477.477,0,0,0,0-.954Z" transform="translate(-66.662 -149.989)" fill="#280067"/>
+    <path id="Path_3699" data-name="Path 3699" d="M210.477,132.454h3.338a.477.477,0,0,0,0-.954h-3.338a.477.477,0,0,0,0,.954Z" transform="translate(-116.658 -66.662)" fill="#280067"/>
+    <path id="Path_3700" data-name="Path 3700" d="M166.323,271.5h-8.346a.477.477,0,1,0,0,.954h8.346a.477.477,0,0,0,0-.954Z" transform="translate(-66.662 -199.985)" fill="#280067"/>
+    <path id="Path_3701" data-name="Path 3701" d="M166.323,324h-8.346a.477.477,0,0,0,0,.954h8.346a.477.477,0,0,0,0-.954Z" transform="translate(-66.662 -249.981)" fill="#280067"/>
+    <path id="Path_3702" data-name="Path 3702" d="M166.323,376.5h-8.346a.477.477,0,0,0,0,.954h8.346a.477.477,0,1,0,0-.954Z" transform="translate(-66.662 -299.978)" fill="#280067"/>
+    <path id="Path_3703" data-name="Path 3703" d="M104.669,64.838h-1.192V63.646A2.149,2.149,0,0,0,101.33,61.5H89.646A2.149,2.149,0,0,0,87.5,63.646V78.669a2.148,2.148,0,0,0,2.146,2.146h1.192v1.192a2.148,2.148,0,0,0,2.146,2.146h11.684a2.148,2.148,0,0,0,2.146-2.146V66.984A2.148,2.148,0,0,0,104.669,64.838ZM89.646,79.861a1.194,1.194,0,0,1-1.192-1.192V63.646a1.194,1.194,0,0,1,1.192-1.192H101.33a1.194,1.194,0,0,1,1.192,1.192V78.669a1.194,1.194,0,0,1-1.192,1.192Zm16.215,2.146a1.194,1.194,0,0,1-1.192,1.192H92.984a1.194,1.194,0,0,1-1.192-1.192V80.815h9.538a2.148,2.148,0,0,0,2.146-2.146V65.792h1.192a1.194,1.194,0,0,1,1.192,1.192Z" fill="#280067"/>
+  </g>
+</svg>

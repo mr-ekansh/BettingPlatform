@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="389.802" height="59.711" viewBox="0 0 389.802 59.711">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#568a29"/>
+      <stop offset="1" stop-color="#1f4b1d"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_5323" data-name="Path 5323" d="M761.553,1087.091A12.2,12.2,0,0,0,749.761,1078H406.041a12.2,12.2,0,0,0-11.792,9.091L383,1137.711H772.8Z" transform="translate(-383 -1078)" fill="url(#linear-gradient)"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="27" viewBox="0 0 28 27">
+  <g id="Group_929" data-name="Group 929" transform="translate(-679 -19)">
+    <rect id="Rectangle_1188" data-name="Rectangle 1188" width="2" height="28" rx="1" transform="translate(707 44) rotate(90)" fill="#568a29"/>
+    <g id="Group_928" data-name="Group 928" transform="translate(1)">
+      <path id="Rectangle_1189" data-name="Rectangle 1189" d="M2,0H25a0,0,0,0,1,0,0V4a0,0,0,0,1,0,0H2A2,2,0,0,1,0,2V2A2,2,0,0,1,2,0Z" transform="translate(703 19) rotate(90)" fill="#568a29"/>
+      <path id="Rectangle_1190" data-name="Rectangle 1190" d="M2,0H16a0,0,0,0,1,0,0V4a0,0,0,0,1,0,0H2A2,2,0,0,1,0,2V2A2,2,0,0,1,2,0Z" transform="translate(697 28) rotate(90)" fill="#568a29"/>
+      <path id="Rectangle_1191" data-name="Rectangle 1191" d="M2,0H21a0,0,0,0,1,0,0V4a0,0,0,0,1,0,0H2A2,2,0,0,1,0,2V2A2,2,0,0,1,2,0Z" transform="translate(691 23) rotate(90)" fill="#568a29"/>
+      <path id="Rectangle_1192" data-name="Rectangle 1192" d="M2,0H9A0,0,0,0,1,9,0V4A0,0,0,0,1,9,4H2A2,2,0,0,1,0,2V2A2,2,0,0,1,2,0Z" transform="translate(685 35) rotate(90)" fill="#568a29"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "992644638293",
+    "firebase_url": "https://betx99-ba795-default-rtdb.firebaseio.com",
+    "project_id": "betx99-ba795",
+    "storage_bucket": "betx99-ba795.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992644638293:android:79458389f4929ce36dd6dc",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Bet99"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992644638293-meqeggsjq0s5i9hvliqvko90486a60sr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVW3bzP9sVFFVnl4lXkkE5BTC6dImf4Qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992644638293-meqeggsjq0s5i9hvliqvko90486a60sr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

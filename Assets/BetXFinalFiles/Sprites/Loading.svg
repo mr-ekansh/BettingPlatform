@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="302.27" height="302.27" viewBox="0 0 302.27 302.27">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.419" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7e04b1"/>
+      <stop offset="0.571" stop-color="#7e04b1" stop-opacity="0.596"/>
+      <stop offset="1" stop-color="#7e04b1" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g id="Group_25" data-name="Group 25" transform="translate(-1303.5 518)">
+    <path id="Union_1" data-name="Union 1" d="M139.7,302.27l11.326-150.552-45.9,143.832-21.212-8.57L150.829,151.6l-98.474,114.5L36.178,249.915l114.465-98.448L16.484,220.718l-8.939-21.06,143.048-48.413L0,162.574V139.7l150.551,11.326L6.72,105.125l8.57-21.212,135.383,66.917L36.178,52.355,52.355,36.178,150.8,150.641,81.552,16.484l21.06-8.939,48.413,143.049L139.7,0h22.878L151.248,150.551,197.145,6.72l21.212,8.57L151.44,150.674l98.475-114.5,16.177,16.177L151.627,150.8,285.786,81.552l8.939,21.06L151.676,151.025,302.27,139.7v22.878L151.718,151.248l143.832,45.9-8.57,21.212L151.6,151.44l114.5,98.475-16.177,16.177L151.467,151.628l69.25,134.158-21.06,8.939L151.245,151.678,162.574,302.27Z" transform="translate(1303.5 -518)" fill="url(#radial-gradient)"/>
+  </g>
+</svg>

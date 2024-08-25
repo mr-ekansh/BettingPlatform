@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="86.591" height="30.242" viewBox="0 0 86.591 30.242">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="0.5" x2="0.046" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6400e8"/>
+      <stop offset="1" stop-color="#be31ff"/>
+    </linearGradient>
+    <filter id="Rectangle_1343" x="0" y="0" width="86.591" height="30.242" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-color="#cd68ff" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g data-type="innerShadowGroup">
+    <rect id="Rectangle_1343-2" data-name="Rectangle 1343" width="30.242" height="86.591" rx="15.121" transform="translate(86.591) rotate(90)" fill="url(#linear-gradient)"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_1343)">
+      <rect id="Rectangle_1343-3" data-name="Rectangle 1343" width="30.242" height="86.591" rx="15.121" transform="translate(86.59) rotate(90)" fill="#fff"/>
+    </g>
+    <g id="Rectangle_1343-4" data-name="Rectangle 1343" transform="translate(86.591) rotate(90)" fill="none" stroke="#962bc9" stroke-linecap="round" stroke-width="0.5">
+      <rect width="30.242" height="86.591" rx="15.121" stroke="none"/>
+      <rect x="0.25" y="0.25" width="29.742" height="86.091" rx="14.871" fill="none"/>
+    </g>
+  </g>
+</svg>
